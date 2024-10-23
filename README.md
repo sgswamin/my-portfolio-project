@@ -1,6 +1,6 @@
 # My Portfolio Page
 
-* A responsive portfolio page project with Javascript to enable interactivity to send me emails directly from the Contact page.
+* A responsive portfolio page project with Javascript via emailjs to enable interactivity to send me emails directly from the Contact page.
 
 ## Live link
 
