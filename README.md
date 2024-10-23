@@ -4,7 +4,7 @@
 
 ## Live link
 
-* 
+* https://sgswamin.github.io/my-portfolio-project/
 
 ### Special Thanks
 
