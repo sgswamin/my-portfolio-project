@@ -8,4 +8,4 @@
 
 ### Special Thanks
 
-* Cory Kane for guiding me with helpful suggestions and in setting up the direct email feature in the JS file.
+* Cory Kane for guiding me with helpful suggestions and emailjs.com in setting up the direct email feature in the JS file.
