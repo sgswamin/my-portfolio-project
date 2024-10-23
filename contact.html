@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact</title>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+        <link rel="stylesheet" href="styles.css" type="text/css" >
+    </head>
+  <body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="portfolio.html">Portfolio</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    
+    <section class="form-container">
+      <h2>Get in touch</h2>
+      <form>
+        <input type="text" placeholder="Name" name="user_name">
+        <input type="email" placeholder="Email" name="user_email">
+        <br>
+        <textarea id="inputText" name="message" placeholder="Send me a message!" rows="4" cols="50"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+    <script src="./email.js"></script>
+  </body>
+</html>
